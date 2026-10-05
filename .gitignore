@@ -1,0 +1,62 @@
+
+### `.gitignore`
+
+```gitignore
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Local secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Editors and OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Python build output
+build/
+dist/
+*.egg-info/
+.eggs/
+.ipynb_checkpoints/
+
+# ROS 2
+install/
+log/
+
+# COLMAP / generated data
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated point clouds
+*.ply
+*.pcd
+
+# Robotics recordings
+*.bag
+*.db3
+*.mcap
+recording/
+
+# Raw videos stay local. The final demo is on YouTube.
+Media/*.mp4
+Media/*.mov
+Media/*.avi
+Media/*.mkv

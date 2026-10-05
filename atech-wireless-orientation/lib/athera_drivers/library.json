@@ -1,0 +1,12 @@
+{
+  "name": "athera_drivers",
+  "version": "1.0.0",
+  "description": "Atech I2C drivers",
+  "frameworks": [
+    "arduino"
+  ],
+  "platforms": [
+    "espressif32",
+    "ststm32"
+  ]
+}

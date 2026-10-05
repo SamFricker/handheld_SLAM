@@ -1,0 +1,59 @@
+# Python environments and cache
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Local secrets / OAuth credentials
+.env
+.env.*
+client_secret*.json
+client_secrets*.json
+.youtube_token.json
+token.json
+*.pem
+*.key
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build / temporary files
+build/
+dist/
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# ROS 2 build outputs
+install/
+log/
+
+# Raw / generated robotics data
+recording/
+*.bag
+*.db3
+*.mcap
+
+# COLMAP databases / generated geometry
+*.db
+*.sqlite
+*.sqlite3
+*.ply
+*.pcd
+
+# Large source/demo videos are kept locally and published on YouTube instead.
+# The generated first-frame thumbnails in Media/readme/ ARE committed.
+Media/wireless-orientation-tracking.mov
+Media/complete-mapping.mp4
+Media/test.mov
