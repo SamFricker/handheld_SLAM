@@ -6,6 +6,8 @@ The system combines a monocular camera, orientation sensing and short-range dist
 
 This project was developed as part of my engineering work for a Peru travel grant. I later plan to use what I learned from building it when visiting UTEC and the NASA-UNSA collaboration in Peru.
 
+[Demo Video](https://youtu.be/QS8kUJ4V7ZA)
+
 ## Goal
 
 The aim was to build a handheld system that could:
