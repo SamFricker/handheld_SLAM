@@ -37,7 +37,7 @@ The camera and sensors were mounted close together so that their measurements ca
 <p align="center">
   <img src="Media/readme/tripod-mount.jpg" width="31%" alt="Handheld mounting setup">
   <img src="Media/readme/standby-mode.jpg" width="31%" alt="Electronics mounted on the handheld system">
-  <img src="Media/readme/bottle-scene.jpg" width="31%" alt="Test scene used for 3D reconstruction">
+  <img src="Media/readme/orientation-programme.jpg" width="45%" alt="Orientation visualisation">
 </p>
 
 ## Software
@@ -62,7 +62,7 @@ Relevant files:
 
 <p align="center">
   <img src="Media/readme/orientation-viewer.jpg" width="45%" alt="First orientation viewer">
-  <img src="Media/readme/orientation-programme.jpg" width="45%" alt="Orientation visualisation">
+  <img src="Media/readme/bottle-scene.jpg" width="31%" alt="Test scene used for 3D reconstruction">
 </p>
 
 ## 3D reconstruction
